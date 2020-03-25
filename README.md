@@ -30,3 +30,5 @@ character because the game will overwrite the restored save with the current sav
 might be a problem with your antivirus.
 
 6. It works with the regular version of the game and the scholar of the first sin one.
+
+# [//// Nexus Mods ////](https://www.nexusmods.com/darksouls2/mods/873/)
